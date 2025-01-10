@@ -17,7 +17,7 @@ const Home = () => {
         backgroundPosition="center"
         backgroundRepeat="no-repeat"
         backgroundSize="cover"
-        height="93vh"
+        height="92vh"
         width="100%"
       >
         <Box w="30%" p="12">

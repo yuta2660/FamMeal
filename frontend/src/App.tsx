@@ -4,10 +4,10 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
-import Home from './container/Home'
-import About from './container/About'
-import Login from './container/Login'
-import SignUp from './container/SignUp'
+import Home from './containers/Home'
+import About from './containers/About'
+import Login from './containers/Login'
+import SignUp from './containers/SignUp'
 
 function App() {
   return (
